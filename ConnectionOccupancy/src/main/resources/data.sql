@@ -1,0 +1,1 @@
+insert into PERSONA (nombre) values ('Chema');
